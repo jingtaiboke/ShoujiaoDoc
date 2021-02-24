@@ -1,0 +1,26 @@
+{
+  "name": "shoujiaodoc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Limit7/ShoujiaoDoc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Limit7/ShoujiaoDoc/issues"
+  },
+  "homepage": "https://github.com/Limit7/ShoujiaoDoc#readme",
+  "devDependencies": {
+    "core-js": "^2.6.11",
+    "vuepress": "^1.8.2",
+    "vuepress-theme-antdocs": "^1.2.2"
+  }
+}
